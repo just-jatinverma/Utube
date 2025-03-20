@@ -26,13 +26,13 @@ A dynamic and responsive **YouTube Video Gallery** built with **Bootstrap** and 
 1. **Clone the Repository**
 
    ```sh
-   git clone https://github.com/your-username/youtube-video-gallery.git
+   git clone https://github.com/just-jatinverma/Utube.git
    ```
 
 2. **Navigate to the Project Folder**
 
    ```sh
-   cd youtube-video-gallery
+   cd Utube
    ```
 
 3. **Open `index.html` in a browser**  
