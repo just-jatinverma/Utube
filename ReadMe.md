@@ -51,8 +51,6 @@ A dynamic and responsive **YouTube Video Gallery** built with **Bootstrap** and 
 
 ## 📸 Screenshots
 
-### 🎨 **Beautiful Bootstrap Cards**
-
 ![Video Cards](./assets/Screenshot%202025-03-20%20124358.png)
 
 ---
