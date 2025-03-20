@@ -5,7 +5,7 @@ async function fetchVideos() {
   try {
     const response = await fetch(
       "https://api.freeapi.app/api/v1/public/youtube/videos"
-    ); // Replace with your actual API URL
+    );
     if (!response.ok) throw new Error(`HTTP error! Status: ${response.status}`);
 
     const data = await response.json(); // Convert response to JSON

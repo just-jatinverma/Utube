@@ -53,11 +53,7 @@ A dynamic and responsive **YouTube Video Gallery** built with **Bootstrap** and 
 
 ### 🎨 **Beautiful Bootstrap Cards**
 
-![Video Cards](https://via.placeholder.com/600x300?text=Video+Gallery+Preview)
-
-### 🔍 **Real-time Search Functionality**
-
-![Search Bar](https://via.placeholder.com/600x300?text=Search+Functionality)
+![Video Cards](./assets/Screenshot%202025-03-20%20124358.png)
 
 ---
 
